@@ -14,7 +14,7 @@ public class Bank {
 		Client c1 = new Client("Andreas", "Harlaching");		
 		Client c2 = new Client("Isa", "Munich");
 		
-		Client c3 = new Client("Alex", "Erlangen");
+		Client c3 = new Client("Alexander", "Erlangen");
 		Client c4 = new Client("Flo", "Deisenhofen");
 		
 		
